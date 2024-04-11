@@ -22,9 +22,3 @@ A simple typing game where you can test your typing speed. The game prompts a tw
 - HTML
 - CSS
 - JavaScript
-
-## Preview
-![Typing Game Preview](typing_game_preview.png)
-
-Feel free to contribute and improve the game as you wish!
-
